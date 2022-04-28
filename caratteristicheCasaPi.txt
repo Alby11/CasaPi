@@ -1,0 +1,23 @@
+1 - metratura
+1 - condizioni
+1 - prezzo
+2 - posizione
+3 - esterni
+4 - luce
+4 - piano
+4 - ascensore
+5 - cantina
+5 - garage
+6 - bagni
+6 - disposizione
+7 - zona
+8 - vista
+
+1 - metratura - condizioni - prezzo
+2 - posizione
+3 - esterni
+4 - luce - piano - ascensore
+5 - cantina - garage
+6 - bagni - disposizione
+7 - zona
+8 - vista
